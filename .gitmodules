@@ -1,0 +1,9 @@
+[submodule "stm"]
+	path = stm
+	url = https://github.com/DavidGrueso/viruta-stm.git
+[submodule "wireless"]
+	path = wireless
+	url = https://github.com/DavidGrueso/viruta-wifi.git
+[submodule "web"]
+	path = web
+	url = https://github.com/DavidGrueso/viruta-web.git
